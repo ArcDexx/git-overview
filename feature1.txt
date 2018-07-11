@@ -1,3 +1,4 @@
 Nice feature
+Cool update to feature1 from master
 No bugs
 Smooth stuff
